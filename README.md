@@ -1,1 +1,1 @@
-# Etherium function templates to eteract with smartcontract
+# Ethereum function template to interact with smart contract
